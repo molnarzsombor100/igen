@@ -1,0 +1,37 @@
+body {
+    background-color: #E0E0E0;
+    color: #660000;
+    font-family: Arial;
+    width: 70%;
+    margin: 20px auto;
+}
+
+img {
+    margin: 5px;
+    clear: ;
+}
+
+#cim {
+    text-align: center;
+}
+
+#kakamatyi {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#lol {
+    text-align: center;
+}
+
+#nem {
+    margin-left: 20px;
+}
+
+#koli {
+    float: right;
+}
+
+div {
+    text-align: center;
+}
